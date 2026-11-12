@@ -14,7 +14,7 @@
 <!-- TECH STACK -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,py,pytorch,tensorflow,sklearn,opencv,selenium,fastapi,django,flask,sqlite,postgres,mongodb&theme=dark&perline=20" />
+  <img src="https://skillicons.dev/icons?i=windows,github,vscode,py,selenium,fastapi&theme=dark&perline=20" />
 </p>
 
 <!-- СТАТИСТИКА (две плитки рядом) -->
