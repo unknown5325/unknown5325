@@ -28,3 +28,8 @@
   <img src="https://streak-stats.demolab.com?user=unknown5325&theme=dark&hide_border=true&locale=ru" />
 </p>
 
+<div align="center">
+  <a href="https://gitfut.com/unknown5325">
+    <img src="https://gitfut.com/unknown5325.png" width="260" alt="GitFut card" />
+  </a>
+</div>
